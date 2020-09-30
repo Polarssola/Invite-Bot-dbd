@@ -1,0 +1,5 @@
+$nomention
+$color[$random[0;99999]]$title[$username Convide o Bot Para o Seu Servidor!]
+$description[[Adicionar o Bot]($getBotInvite)]
+$footer[Executado por $username | Hoje às $hour:$minute]
+$footerIcon[$authorAvatar]
